@@ -61,7 +61,11 @@ public class MainActivity extends AppCompatActivity {
         Integer number = r.nextInt(6);
         tv.setText(Integer.toString(number));
 
+        string editText2;
+        if (r.equals(editText2))
 
+        }
 
     }
+
 }
